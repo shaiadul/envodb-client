@@ -1,0 +1,17 @@
+.header-title{
+    background-color: #03203C;
+    padding: 15px;
+}
+.header-text{
+    background-color: rgba(204, 197, 197, 0.337);
+}
+.item-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.datas{
+    padding: 10px;
+    background-color: antiquewhite;
+    font-weight: 800;
+}

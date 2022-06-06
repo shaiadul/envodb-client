@@ -1,0 +1,32 @@
+.bg-darking{
+    background-color: #4b4c4d;
+    
+}
+.client-img{
+    border-radius: 50%;
+    border: 2px dotted #C7C11A;
+}
+.client-style{
+    border-left: 5px solid #C7C11A;
+    border-bottom: 5px solid #C7C11A;
+    border-radius: 20px;
+}
+.client-name{
+    font-style: italic;
+    font-weight: 600;
+    text-shadow: #C7C11A 2px 1px ;
+}
+.feedback{
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: #C7C11A 2px 4px ;
+}
+.section-name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 5px solid #C7C11A;
+    border-radius: 15px;
+    display: inline-block;
+}
+.gray{
+    color: #4b4c4d;
+}

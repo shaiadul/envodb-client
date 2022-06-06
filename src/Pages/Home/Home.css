@@ -1,0 +1,43 @@
+.home-container {
+    background-image:
+    linear-gradient(to bottom, rgba(71, 71, 73, 0.614), rgba(105, 102, 104, 0.54)),
+    url('https://st2.depositphotos.com/1071909/6917/i/450/depositphotos_69177267-stock-photo-marketing-strategy-process.jpg');
+    /* background-image: url("https://i.ytimg.com/vi/gey73xiS8F4/maxresdefault.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    /* background: linear-gradient(#333, #333 50%, #eee 100%); */
+}
+.text-mine{
+    color: white;
+    font-size: 60px;
+    padding-top: 200px;
+    margin-bottom: 40px;
+    text-shadow: #C7C11A 2px 4px ;
+}
+.happy-client-pic{
+    /* background-color: #242B2E; */
+    /* border-radius: 20px; */
+}
+.see-link{
+    text-decoration: none;
+    font-size: 25px;
+    /* color: #C7C11A; */
+    border: 2px solid #C7C11A;
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 300px;
+    color: #C7C11A;
+    font-weight: 800;
+}
+.see-link:hover{
+    color: #C7C11A;
+    background-color: #242B2E;
+    
+}
+.banner-doc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(36, 67, 57, 0.575);
+    text-shadow: #C7C11A 2px 4px ;
+}

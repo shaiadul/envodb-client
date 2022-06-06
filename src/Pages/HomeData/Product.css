@@ -1,0 +1,23 @@
+.bg-product{
+    background-color: #a0a2a760;
+    width: 100%;
+}
+.cards{
+   margin-bottom: 50px;
+   
+}
+.name{
+    border: 2px solid #C7C11A;
+    border-radius: 15px;
+    padding: 5px;
+    display: inline;
+    background-color: #f1ed858d;
+    font-family: monospace;
+}
+
+.style-button{
+    border-radius: 5px;
+}
+.style-button:focus{
+    outline: none;
+}
