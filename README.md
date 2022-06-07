@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Envo||DB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live site link: https://assignment-eleven-11.web.app/home
 
-## Available Scripts
+#### Getting Started with Envo||DB full stack React Application . with backent uses node.js and for database is mongodb uses in this project ! for authenticaton syestem use firebase . this is simple firebase login and resister work , heardly i use jwt (thas call json web token ) for identification for every single user .  this is an inverntory management web site , ther an user or manager can upload data and it is save database , user can dlelte and delevery any single products in her stock . now i teal some step how to start and finally finish this work !!!
 
-In the project directory, you can run:
 
-### `npm start`
+## short Discription of this project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*	Stock House Management Website.
+*	An stock Manager can update their product, as like delete, delivery ( decrees quantity by 1 when delivering any products ).
+*	Authorization system, so that every single user must verify her email fast. JWT token including for data security.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## importent steps for an simple web page !
 
-### `npm run build`
+* fast i slice many part of this project ! 
+* and do it one by one .
+* find and ui design for this project (search google)
+* mack a simple design , do not force ui (for practice project)
+* react router user because this is an SPA site .
+* style an login page and use firebase for authentication. (use firebase hook !!)
+* chack social login , the require is one social login (for this assignment)
+* back to backend and create an node project for load data bt DB.
+* fast load products , then other items and data .
+* heandele all error and see importen error user on the page 
+* git add . all work and push (you must be commit all section doing!)
+* deploy carefully 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## uses importent libary and freamwork
+* Bootstrap
+* React 
+* React firebace hook
+* react tostify
+* css animation 
+* node 
+* express
+* dotenv 
+* cors (for medileware)
+* nodemon
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployed in ---
+* Firebase ( Client Site)
+* Heroku (Server Site)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
