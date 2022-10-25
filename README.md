@@ -16,7 +16,7 @@
 ## importent steps for an simple web page !
 
 * fast i slice many part of this project !! 
-* and do it one by one .
+* and do it one by one ..
 * find and ui design for this project (search google)
 * mack a simple design , do not force ui (for practice project)
 * react router user because this is an SPA site .
