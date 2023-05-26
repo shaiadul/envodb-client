@@ -26,7 +26,7 @@
 * fast load products , then other items and data .
 * heandele all error and see importen error user on the page 
 * git add . all work and push (you must be commit all section doing!)
-* deploy carefully 
+* deploy carefully .
 
 
 ## uses importent libary and freamwork
